@@ -1,2 +1,2 @@
 # Twitter-Data-Maining
-This program pulls data from Twitter
+Parses and pulls data from Twitter
